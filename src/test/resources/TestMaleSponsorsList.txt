@@ -1,0 +1,2 @@
+companyName1	person@server.tn	71232000 - 27450474	name1
+companyName2	person@server.tn	71232000 - 27450474	name2

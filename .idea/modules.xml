@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iac.emails.iml" filepath="$PROJECT_DIR$/.idea/modules/iac.emails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iac.emails_main.iml" filepath="$PROJECT_DIR$/.idea/modules/iac.emails_main.iml" group="iac.emails" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iac.emails_test.iml" filepath="$PROJECT_DIR$/.idea/modules/iac.emails_test.iml" group="iac.emails" />
+    </modules>
+  </component>
+</project>
